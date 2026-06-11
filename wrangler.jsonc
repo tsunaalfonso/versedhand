@@ -1,4 +1,3 @@
-cat > wrangler.jsonc << 'EOF'
 {
   "name": "versedhand",
   "compatibility_date": "2026-06-01",
@@ -7,4 +6,3 @@ cat > wrangler.jsonc << 'EOF'
     "not_found_handling": "404-page"
   }
 }
-EOF
